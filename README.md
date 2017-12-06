@@ -1,6 +1,6 @@
 ISO country code in CSV format
 ==============================
 
-Source: [OBP](https://www.iso.org/obp/ui/#search/code/)
+Country Code: [ISO-3166](https://www.iso.org/obp/ui/#search/code/)
 
-Language Code: [List of ISO 639 codes](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
+Language Code: [ISO-639](http://www.loc.gov/standards/iso639-2/php/code_list.php)
